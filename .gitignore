@@ -1,3 +1,6 @@
 NA12878.exome.bam
 NA12878.exome.bam.bai
+20130108.exome.targets.bed
+20130108.exome.targets.grch38.bed
 .DS_Store
+*.txt
